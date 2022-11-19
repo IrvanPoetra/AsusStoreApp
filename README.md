@@ -10,7 +10,7 @@ Akun Admin:
 
 Pembagian Tugas Pembuatan Projek 2
 
-- Muhammad Rafli      : Front End/UI XML dan Modul Admin
+- Muhammad Rafli        : Front End/UI XML dan Modul Admin
 
 - Irvan Pratama Putra : Modul register & login User & Staff 
 
