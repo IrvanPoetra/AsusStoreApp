@@ -2,7 +2,13 @@
 
 Final Project Studi Independen Hacktiv8 by Merdeka Belajar Kampus Merdeka
 
-Pembagian Tugas Pembuatan Projek 1
+Akun Admin: 
+
+- Username : project2
+
+- Password : finalproject
+
+Pembagian Tugas Pembuatan Projek 2
 
 Muhammad Rafli      : Front End/UI XML dan Modul Admin
 
